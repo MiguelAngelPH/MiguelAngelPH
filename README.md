@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/MiguelAngelPH](github.com/MiguelAngelPH)
 
-- 💬 Puedes preguntarme sobre: **Java, Python, ASP.Net(en C#), C++, PSeInt...**
+- 💬 Puedes preguntarme sobre: **Java, Python, ASP.Net(en C#), C++, HTML, CSS, SQL, PSeInt...**
 
 - 📫 Contacto **m.angelph90@gmail.com**
 
